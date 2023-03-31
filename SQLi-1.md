@@ -55,4 +55,6 @@ Cookie: PHPSESSID=jqeunca8s853cqfdr18lvheru5
 Connection: close
 ```
 
+The response time of the server is 15 seconds
+
 ![image](https://github.com/LOBSSSA5DD5/bug_report/blob/main/sql2.png)
