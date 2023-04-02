@@ -1,8 +1,4 @@
-# Simple Mobile Comparison Website v1.0 has SQL injection
-
 BUG_Author:Houguo Xi
-
-Website source address:https://www.sourcecodester.com/php/15186/simple-mobile-comparison-website-phpoop-free-source-code.html
 
 Vulnerability File: /mcw/admin/fields/manage_field.php
 
